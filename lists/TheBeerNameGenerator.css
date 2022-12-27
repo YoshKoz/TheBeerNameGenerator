@@ -1,0 +1,27 @@
+#random-name {
+    margin: 4rem 0;
+}
+
+br {
+    height: 2px;
+}
+
+body {
+    height: 200vh;
+    place-items: center;
+    font-family: 'Dancing Script';
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+
+    padding: 1rem 2rem;
+    text-align: center;
+}
+span {
+    display: block;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: monospace;
+}
